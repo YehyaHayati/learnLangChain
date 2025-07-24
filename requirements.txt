@@ -5,3 +5,4 @@ dotenv
 numpy
 scikit-learn
 chromadb
+youtube-transcript-api
